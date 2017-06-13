@@ -13,7 +13,7 @@ odgovor na drugo vprašanje... Ai za odgovor na i-to vprašanje.
 1. Vzemi število pi na 20. potenco in ga zaokroži navzdol
 1. Obišči stran http://bit.ly/A1 in na strani poišči zadnje tri števke zapisa,
 ki se začne z `0x63FEE`.
-    * Za to boš TOR brskalnik, ki ga lahko na Ubuntu namestiš z ukazi:
+    * Za to boš potreboval TOR brskalnik, ki ga lahko na Ubuntu namestiš z ukazi:
     ```bash
     sudo add-apt-repository ppa:webupd8team/tor-browser
     sudo apt-get update
@@ -34,7 +34,7 @@ se začne s 333.
 1. Povej vrednost rdeče barve (od 0 do 255) točke na položaju (A5/314134, A4) na
 [tej sliki](https://raw.githubusercontent.com/KrozekGimVic/2017-lov-na-zaklad/master/barve.png)
 1. Po vrsti seštevaj kvadrate števil od vključno A3 navzgor, dokler vsota ne
-preseže dvajset milijard
+preseže dvajset milijard.
     * A3^2 + (A3+1)^2 + (A3+2)^2 + …
 1. Kaj je največji prafaktor števila A7?
 1. Prenesi datoteko [resitev.zip](https://raw.githubusercontent.com/KrozekGimVic/2017-lov-na-zaklad/master/resitev.zip).
