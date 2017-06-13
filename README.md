@@ -31,7 +31,14 @@ rezultat in ga ponovno vnesi v program. To ponavljal dokler ne dobiš števila, 
 se začne s 333.
     * Nasvet: Poglej kodo
     programa in ugotovi ali lahko kako pohitriš njegovo delovanje.
-1. Povej vrednost rdeče barve točke na položaju (A5/314134, A4) na
+1. Povej vrednost rdeče barve (od 0 do 255) točke na položaju (A5/314134, A4) na
 [tej sliki](https://raw.githubusercontent.com/KrozekGimVic/2017-lov-na-zaklad/master/barve.png)
+1. Po vrsti seštevaj kvadrate števil od vključno A3 navzgor, dokler vsota ne
+preseže dvajset milijard
+    * A3^2 + (A3+1)^2 + (A3+2)^2 + …
+1. Kaj je največji prafaktor števila A7?
+1. Prenesi datoteko [resitev.zip](https://raw.githubusercontent.com/KrozekGimVic/2017-lov-na-zaklad/master/resitev.zip).
+Geslo za odpiranje je zmnožek števil A6 in A8. V njej boš našel končno rešitev.
+
 
 
